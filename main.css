@@ -1,0 +1,54 @@
+body{
+	background-image: url(fon.jpg);
+	background-size: 100%, 100%; 
+}
+.texy{
+	
+	font-size: 30px;
+    
+}
+
+.zag{
+	text-align: center;
+	font-family: cursive;
+	text-transform: capitalize;
+}
+div{
+	padding: 20px;
+}
+img{
+	width: 20%;
+	height: 17%;
+}
+.im1{
+	position: absolute;
+	top: 3%;
+	left: 7%;
+}
+.im2{
+	position: absolute;
+	top: 3%;
+	right:  7%;
+}
+.im3{
+	position: absolute;
+	top: 3%;
+	left: 40%;
+}
+.deva{
+	width: 40%;
+	height: 50%;
+	position: absolute;
+	right: 50px;
+	bottom: 50px;
+	z-index: -1;
+}
+ul{
+	font-family: "Author",Cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    font-family: cursive;
+}
